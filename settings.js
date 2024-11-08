@@ -2,7 +2,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 module.exports = {
-  SESSION_ID: '',
+  SESSION_ID: 'QUEENELISA;;;==QRutEeMpFVFZTe1NUY052dpdWcQR1dPFUW4gTOoRUW4MzcidnVMV3c3c2RjwETZpnaOJVTpwd=61331214749',
   ALIVE_REACT: '👋',
   ALIVE_MESSAGE: `*Hello @name [ And @gname @members Number of Members ] I am Alive Now !*
 
@@ -19,7 +19,7 @@ module.exports = {
 
 Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   ALIVE_MEDIA: 'https://telegra.ph/file/d842677f522b6bef4dfe6.jpg',
-  MONGODB_URL: '', 
+  MONGODB_URL: 'mongodb+srv://suhail:suhail@clustere.tuhzpez.mongodb.net/', 
   PREFIX: '.$&',
   LANGUAGE: 'EN',
   PORT: 3000,
@@ -40,7 +40,7 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   AUTO_VOICE: false,
   INBOX_BLOCK: false,
   OWNER_REACT: true,
-  AUTO_REACT: true,
+  AUTO_REACT: false,
   ONLY_PM_GROUP_MSG_SEND: false,
   AUTO_SEEN_STATUS: true,
   BOT_OFFLINE: false,
@@ -55,7 +55,7 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   CMD_CORRECT: true,
   ANTI_CHANNEL_FORWARD: false,
   ANTI_BOT: false,
-  BUTTON_MESSAGES: true,
+  BUTTON_MESSAGES: false,
   SONG_DOWNLOAD_TYPE: 'selectable', // audio , document
   VIDEO_DOWNLOAD_TYPE: 'selectable', // video
   FB_DOWNLOAD_TYPE: 'selectable', // hdvideo , sdvideo
